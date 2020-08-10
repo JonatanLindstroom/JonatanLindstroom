@@ -1,0 +1,8 @@
+# Bloat
+/node_modules
+
+# Secrets
+.env
+
+# Misc
+.DS_Store
