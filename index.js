@@ -71,7 +71,7 @@ async function getWakaStats() {
 
   let languages = response.data.data.languages.slice(0, 5)
   languages.forEach(lang => {
-    lang.imgPath = `images/${lang.name}.png`
+    lang.imgPath = `images/${lang.name}.svg`
     if (ghLanguages[lang.name]) {
       lang.color = ghLanguages[lang.name].color
       if (!lang.color && ghLanguages[lang.name].group) {
@@ -101,16 +101,7 @@ function generateImg(name, color, percent, path) {
   readFile('./progressBar.mustache', (err, data) =>  {
     if (err) throw err;
     let output = render(data.toString(), DATA);
-
-    const options = {
-      width: 400, 
-      height: 20,
-      format: 'png'
-    }
-    
-    svg2img(output, options, (error, buffer) => {
-      writeFileSync(path, buffer);
-    });
+    writeFileSync(path, output)
   });
 }
 
