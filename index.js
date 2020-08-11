@@ -105,8 +105,7 @@ function generateImg(name, color, percent, path) {
     const options = {
       width: 400, 
       height: 20,
-      format: 'png',
-      quality: 1000
+      format: 'png'
     }
     
     svg2img(output, options, (error, buffer) => {
