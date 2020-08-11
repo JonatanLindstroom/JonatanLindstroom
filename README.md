@@ -8,4 +8,4 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
 ### My coding activity the last week
 
 
-<sub>*Fetching data from WakaTime, please come back later*</sub>
+<sub>*Fetching data from WakaTime, please check back later*</sub>
