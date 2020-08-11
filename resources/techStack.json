@@ -1,0 +1,11 @@
+{
+  "languages": [{
+      "name": "React",
+      "imgUrl": "https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+    },
+    {
+      "name": "JavaScript",
+      "imgUrl": "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+    }
+  ]
+}

@@ -1,15 +1,12 @@
 require('dotenv').config()
 const yaml = require('js-yaml');
 const axios = require('axios').default;
-const request = require('request');
-const svg2img = require('svg2img');
 const { render } = require('mustache');
 const { encode } = require('js-base64');
 const { readFile, existsSync, mkdirSync, writeFileSync } = require('fs');
-const getRepoLanguages = require('./graphql/get-repo-languages.js');
 
-const { PerformanceObserver, performance } = require('perf_hooks');
-
+// const techStack = require('./resources/techStack.json')
+// const getRepoLanguages = require('./graphql/get-repo-languages.js');
 
 // async function repoLanguages() {
 //   const graphQLClient = new GraphQLClient('https://api.github.com/graphql', {
@@ -46,12 +43,8 @@ const { PerformanceObserver, performance } = require('perf_hooks');
 // }
 
 async function getLanguageColors() {
-  return new Promise((resolve, reject) => { 
-    request.get('https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml', (error, resp, body) => {
-      if (error) reject
-      resolve(yaml.safeLoad(body))
-    })
-  })
+  return axios.request('https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml')
+              .then(res => yaml.safeLoad(res.data) )
 }
 
 async function getWakaStats() {
@@ -108,7 +101,7 @@ function generateImg(name, color, percent, path) {
 function generateReadMe() {
   getWakaStats().then(languages => {
     const DATA = {
-      languages, 
+      languages,
       date: new Date().toLocaleString('en-CA', {
         year: 'numeric',
         month: 'long',
