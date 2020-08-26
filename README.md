@@ -8,9 +8,9 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
 ### My coding activity the last week
 
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/JavaScript.svg)
-  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/SCSS.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Ruby.svg)
+  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/SCSS.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Other.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/JSON.svg)
 
-<sub>*Updates automatically, last update: August 26, 2020, 02:02 GMT+2*</sub>
+<sub>*Updates automatically, last update: August 26, 2020, 06:01 GMT+2*</sub>
