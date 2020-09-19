@@ -4,9 +4,9 @@
   </text>
   <g width="390" height="10" transform="translate(80,5)">
     <rect width="250" height="10" rx="5" ry="5" fill="#f5f5f5" />
-    <rect width="0.7000000000000001" height="10" rx="5" ry="5" fill="#cb171e" />
+    <rect width="0.725" height="10" rx="5" ry="5" fill="#cb171e" />
   </g>
   <text x="390" y="10" dominant-baseline="middle" text-anchor="end">
-    0.28%
+    0.29%
   </text>
 </svg>
