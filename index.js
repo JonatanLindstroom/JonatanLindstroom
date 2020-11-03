@@ -64,6 +64,7 @@ async function getWakaStats() {
 
   let languages = response.data.data.languages.slice(0, 5)
   languages.forEach(lang => {
+    lang.name = encodeURIComponent(lang.name)
     lang.imgPath = `images/${lang.name}.svg`
     if (ghLanguages[lang.name]) {
       lang.color = ghLanguages[lang.name].color
