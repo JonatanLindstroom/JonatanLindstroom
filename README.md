@@ -13,4 +13,4 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/JSON.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/SCSS.svg)
 
-<sub>*Updates automatically, last update: November 20, 2020, 13:03 GMT+1*</sub>
+<sub>*Updates automatically, last update: November 20, 2020, 17:01 GMT+1*</sub>
