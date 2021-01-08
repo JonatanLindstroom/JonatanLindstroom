@@ -7,10 +7,10 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
 
 ### My coding activity the last week
 
-  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/CSV.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/JavaScript.svg)
-  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/SCSS.svg)
+  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/CSV.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Ruby.svg)
-  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/GraphQL.svg)
+  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/SCSS.svg)
+  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Other.svg)
 
-<sub>*Updates automatically, last update: January 8, 2021, 01:17 GMT+1*</sub>
+<sub>*Updates automatically, last update: January 8, 2021, 05:20 GMT+1*</sub>
