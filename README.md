@@ -13,4 +13,4 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/CSV.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/GraphQL.svg)
 
-<sub>*Updates automatically, last update: January 16, 2021, 09:22 GMT+1*</sub>
+<sub>*Updates automatically, last update: January 16, 2021, 13:17 GMT+1*</sub>
