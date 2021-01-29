@@ -1,12 +1,12 @@
 <svg viewBox="0 0 400 20" width="400" height="20" xmlns="http://www.w3.org/2000/svg" style="font-size: 14px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">
   <text x="2" y="10" dominant-baseline="middle">
-    JSON
+    Log%20File
   </text>
   <g width="390" height="10" transform="translate(80,5)">
     <rect width="250" height="10" rx="5" ry="5" fill="#f5f5f5" />
-    <rect width="6.8500000000000005" height="10" rx="5" ry="5" fill="#2790d3" />
+    <rect width="5.2" height="10" rx="5" ry="5" fill="#fc4c8c" />
   </g>
   <text x="390" y="10" dominant-baseline="middle" text-anchor="end">
-    2.74%
+    2.08%
   </text>
 </svg>
