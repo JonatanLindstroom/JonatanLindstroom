@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey 👋 I'm <a href="https://jonatanlindstroom.github.io/Portfolio/" target="_blank">Jonatan</a>
+  Hey 👋 I'm Jonatan
 </h1>
 
 Welcome to my page! 
@@ -7,7 +7,4 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
 
 ### My coding activity the last week
 
-  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/JavaScript.svg)
-  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Git%20Config.svg)
-
-<sub>*Updates automatically, last update: February 8, 2021, 09:11 GMT+1*</sub>
+<sub>*Updates automatically, recently updated build, check back in a minute*</sub>
