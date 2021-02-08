@@ -7,4 +7,7 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
 
 ### My coding activity the last week
 
-<sub>*Updates automatically, recently updated build, check back in a minute*</sub>
+  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/JavaScript.svg)
+  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Git%20Config.svg)
+
+<sub>*Updates automatically, last update: February 8, 2021, 11:25 GMT+1*</sub>
