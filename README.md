@@ -11,6 +11,6 @@ I'm a fullstack developer from Dalarna <img src="https://github.com/JonatanLinds
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/TypeScript.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/JavaScript.svg)
   ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/YAML.svg)
-  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Other.svg)
+  ![](https://github.com/JonatanLindstroom/JonatanLindstroom/blob/master/images/Terraform.svg)
 
-<sub>*Updates automatically, last update: May 3, 2021, 02:17 GMT+2*</sub>
+<sub>*Updates automatically, last update: May 3, 2021, 06:06 GMT+2*</sub>
